@@ -1,0 +1,8 @@
+{
+  "name": "play_typeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pacificsun/play_typeScript.git",
+  "author": "Suraj Thapa <stsurajst@gmail.com>",
+  "license": "MIT"
+}
